@@ -11,7 +11,7 @@ I don't just memorize syntax; I solve problems. By integrating AI tools into my 
 * **The AI Advantage:** GitHub Copilot, Prompt Engineering, AI-Assisted Debugging
 * **Frontend:** React, Vite, Tailwind CSS, JavaScript, HTML/CSS (with a love for UI animations!)
 * **Programming Languages:** Python, JavaScript, C/C++
-* **Development & Tooling:** VS Code Extension API, Git/GitHub, 2D Game Development
+* **Development & Tooling:** VS Code Extension API, Git/GitHub.
 
 ### 🚀 What I'm Building & Architecting
 Here are a few complex problems I've tackled:
