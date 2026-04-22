@@ -1,74 +1,95 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="Animated Banner" width="100%" />
+  <!-- Minimal Golden Header Line -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=30&section=header" width="100%" />
   
-  <br/><br/>
+  <br/>
 
   <a href="https://github.com/prince19112003">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=%3E_System.out.println(%22Hello,+World!%22);%3E_I'm+Prince+Thakur;%3E_B.Tech+CSE+Student+%7C+Frontend+Architect;%3E_Crafting+Vibe-Driven+UIs+%26+Smart+Tooling" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=%3E_System.out.println(%22Hello,+World!%22);%3E_I'm+Prince+Thakur;%3E_B.Tech+CSE+Student+%7C+AI+Explorer;%3E_Crafting+Vibe-Driven+UIs+%26+Smart+Tooling" alt="Typing SVG" />
   </a>
 </div>
-
+<br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prince19112003&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=prince19112003&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge&logo=github&logoColor=black" alt="Profile Views" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prince19112003&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Prince's Trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince19112003&theme=react&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="Prince's Streak" />
 </div>
 
----
+<br/><br/>
 
 ### 👾 The Developer Identity
 
-<img align="right" width="180" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" />
+<div align="justify">
+  I treat software development as a balance between absolute precision and creative flow. I've cultivated a development philosophy centered around <b>performance-first engineering</b> and <b>vibe-driven design</b>.
+</div>
 
-I treat code like logic puzzles. Currently in my 8th semester of B.Tech CSE (8.64 CGPA), I build everything from highly interactive React frontends to python-driven AI logic. When I'm not optimizing code structure, I'm probably brainstorming 2D RPG game mechanics or building tools that make developer life easier.
+**🎓 Academic Standing:**
+
+<img align="right" src="./assets/funny-halloween-cute-ghost-heart-s3rdi55j8nsqajfb.gif" alt="Ghost Mascot" width="220" />
+
+*   🏛️ **Course:** B.Tech Computer Science & Engineering
+*   📈 **Current CGPA:** 8.64
+*   🎓 **Status:** Final Year Student
+
+**My Development DNA:**
+*   🧩 **Bug Hunter:** I don't just fix bugs; I hunt them down like they owe me money.
+*   🎨 **UI Obsessed:**  I believe in aesthetic excellence and intuitive user experiences.
+*   ☕ **Logic Machine:** Converting caffeine into clean code and logic puzzles since day one.
+*   🚀 **Commit Habit:** I commit more often than I blink. *git commit -m "fixed that one thing... again"*
 
 <details>
-  <summary><b>🕹️ View Professional Timeline (Click to Expand)</b></summary>
-  <blockquote>
-    <b>React JS Trainee @ Digital Sakha (2025)</b><br/>
-    <i>Deep dive into component-based architecture and state management.</i><br/><br/>
-    <b>Web Designing Trainee @ ResilienceSoft (2024)</b><br/>
-    <i>Mastered responsive web layouts and user-centric UI design.</i>
-  </blockquote>
+  <summary><b>🕹️ View Professional Journey (Click to Expand)</b></summary>
+  <div align="justify">
+    <blockquote>
+      <b>React JS Trainee @ Digital Sakha (2025)</b><br/>
+      <i>Architected complex component systems and optimized state management workflows.</i><br/><br/>
+      <b>Web Designing Trainee @ ResilienceSoft (2024)</b><br/>
+      <i>Crafted high-fidelity, responsive UI/UX designs for modern web applications.</i>
+    </blockquote>
+  </div>
 </details>
 
----
+<br/><br/>
 
 ### ⚡ The Vibe Coder's Arsenal
 
-*Powered by dynamic icons.*
+*<div align="justify">Powered by dynamic icons.</div>*
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,python,cpp,c,vscode,git,github&perline=6" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,js,ts,python,cpp,c,java,html,css,vscode,git,github,codepen,vercel&perline=9" alt="Tech Stack" />
   </a>
 </div>
 
----
+<br/><br/>
 
 ### 🚀 Active Quests & Projects
 
-| 🚦 Traffic Guard Ultra | 🌶️ CaramelPepper | 🎙️ Whisper AI App | ⚔️ 2D RPG Engine |
+| 🧠 OptiMind | 🚦 Traffic Guard Ultra | 🛍️ Luxe-Ecommerce | 🏨 CS-Course-Projects |
 | :--- | :--- | :--- | :--- |
-| Smart software-based traffic management optimizing real-world gridlock. | VS Code extension to analyze complexity and enforce clean architecture. | Audio recognition and processing application. | Swordigo-inspired game mechanics and collision logic. |
-| `<Python> <Logic>` | `<VS Code API> <JS>` | `<Python> <AI>` | `<Game Dev>` |
+| **VS Code Extension** for privacy-first AI code optimization featuring local & cloud LLMs. | AI-powered traffic scaling using YOLOv8 Computer Vision & IoT logic. | Premium e-commerce platform with elegant UI and sleek transitions. | Collection of Management Systems (Hostel/Hotel) and Practice UI. |
+| `[TS] [Groq] [Ollama]` | `[Python] [YOLOv8] [Next.js]` | `[React] [Tailwind] [JS]` | `[HTML] [CSS] [Logic]` |
 
----
+<br/><br/>
 
 ### 📈 Real-Time Battle Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince19112003&show_icons=true&theme=react&hide_border=true&bg_color=0A0A0A&title_color=3B82F6&icon_color=3B82F6" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince19112003&theme=react&hide_border=true&background=0A0A0A&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prince19112003&theme=react" width="100%" alt="Profile Radar Chart" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince19112003&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prince19112003&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&rank_icon=github" width="48%" />
+</div>
+
+
+
+<br/><br/>
 
 ### 🐍 Contribution Graph Animation
 
@@ -80,7 +101,7 @@ I treat code like logic puzzles. Currently in my 8th semester of B.Tech CSE (8.6
   </picture>
 </div>
 
-<div align="center">
-  <p><i>Building the future, one component at a time.</i></p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="40" />
-</div>
+
+
+
+
