@@ -29,7 +29,7 @@
 
 **🎓 Academic Standing:**
 
-<img align="right" src="./assets/funny-halloween-cute-ghost-heart-s3rdi55j8nsqajfb.gif" alt="Ghost Mascot" width="220" />
+<img align="right" src="./assets/funny-halloween-cute-ghost-heart-s3rdi55j8nsqajfb.gif" alt="Ghost Mascot" width="25%" />
 
 *   🏛️ **Course:** B.Tech Computer Science & Engineering
 *   📈 **Current CGPA:** 8.64
