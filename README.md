@@ -5,18 +5,22 @@
   <br/>
 
   <a href="https://github.com/prince19112003">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=%3E_System.out.println(%22Hello,+World!%22);%3E_I'm+Prince+Thakur;%3E_B.Tech+CSE+Student+%7C+AI+Explorer;%3E_Crafting+Vibe-Driven+UIs+%26+Smart+Tooling" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=%3E_System.out.println(%22Hello,+[...]" />
   </a>
 </div>
 <br/>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prince19112003&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge&logo=github&logoColor=black" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://my-portfolio-beta-two-48.vercel.app/">
+    <img src="https://img.shields.io/badge/View_Portfolio-FFD700?style=for-the-badge&logo=globe&logoColor=black" alt="View Portfolio" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince19112003&theme=react&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="Prince's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince19112003&theme=react&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="Prince's Streak Stats" />
 </div>
 
 <br/><br/>
@@ -24,7 +28,7 @@
 ### 👾 The Developer Identity
 
 <div align="justify">
-  I treat software development as a balance between absolute precision and creative flow. I've cultivated a development philosophy centered around <b>performance-first engineering</b> and <b>vibe-driven design</b>.
+  I treat software development as a balance between absolute precision and creative flow. I've cultivated a development philosophy centered around <b>performance-first engineering</b> and <b>vibe-[...]</b>
 </div>
 
 **🎓 Academic Standing:**
@@ -71,7 +75,7 @@
 
 | 🧠 OptiMind | 🚦 Traffic Guard Ultra | 🛍️ Luxe-Ecommerce | 🏨 CS-Course-Projects |
 | :--- | :--- | :--- | :--- |
-| **VS Code Extension** for privacy-first AI code optimization featuring local & cloud LLMs. | AI-powered traffic scaling using YOLOv8 Computer Vision & IoT logic. | Premium e-commerce platform with elegant UI and sleek transitions. | Collection of Management Systems (Hostel/Hotel) and Practice UI. |
+| **VS Code Extension** for privacy-first AI code optimization featuring local & cloud LLMs. | AI-powered traffic scaling using YOLOv8 Computer Vision & IoT logic. | Premium e-commerce platform wi[...] | [HTML] [CSS] [Logic] |
 | `[TS] [Groq] [Ollama]` | `[Python] [YOLOv8] [Next.js]` | `[React] [Tailwind] [JS]` | `[HTML] [CSS] [Logic]` |
 
 <br/><br/>
@@ -83,8 +87,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince19112003&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=prince19112003&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince19112003&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_colo[...]" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prince19112003&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&r[...]" />
 </div>
 
 
@@ -100,8 +104,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prince19112003/prince19112003/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-
-
-
-
