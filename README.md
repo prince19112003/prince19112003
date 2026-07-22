@@ -36,8 +36,8 @@
 <img align="right" src="./assets/funny-halloween-cute-ghost-heart-s3rdi55j8nsqajfb.gif" alt="Ghost Mascot" width="25%" />
 
 *   🏛️ **Course:** B.Tech Computer Science & Engineering
-*   📈 **Current CGPA:** 8.64
-*   🎓 **Status:** Final Year Student
+*   📈 **Current CGPA:** 8.75
+*   🎓 **Status:** 2026 CSVTU #7 Ranker
 
 **My Development DNA:**
 *   🧩 **Bug Hunter:** I don't just fix bugs; I hunt them down like they owe me money.
